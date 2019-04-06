@@ -1,0 +1,17 @@
+Part 2 : Sleeping stylist with monitor
+Name : Dipal Bhandari 
+(I did this project alone)
+
+- To run this part , 
+gcc monitor.c sleepingStylistMon.c -o sleepingStylistMonitor -lpthread
+./sleepingStylistMonitor
+
+
+
+- To ensure the program is current , I have created a print statement that prints the num of haircut
+and the customer waiting for the line. 
+
+-  I spent around 8 hours for this part 
+
+
+- This was the most difficult part for me , i would give 4.
